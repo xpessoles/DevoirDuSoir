@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.26)  7 OCT 2020 15:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.26)  8 OCT 2020 20:43
 entering extended mode
 **./DDS_03.tex
 (DDS_03.tex
@@ -2584,8 +2584,16 @@ Underfull \hbox (badness 7273) in paragraph at lines 21--30
 it/10 K \OT1/mdput/m/n/10 (+20) =
  []
 
-) (045_DerivationVectorielle/045_DerivationVectorielle.tex
-<045_DerivationVectorielle/images/045_01.png, id=10, 257.0403pt x 90.0966pt>
+) (053_SchemaCinematique/053_SchemaCinematique.tex
+<053_SchemaCinematique/images/053_01.png, id=10, 222.5916pt x 147.6717pt>
+File: 053_SchemaCinematique/images/053_01.png Graphic file (type png)
+<use 053_SchemaCinematique/images/053_01.png>
+Package pdftex.def Info: 053_SchemaCinematique/images/053_01.png  used on input
+ line 8.
+(pdftex.def)             Requested size: 142.1105pt x 94.28423pt.
+)
+(045_DerivationVectorielle/045_DerivationVectorielle.tex
+<045_DerivationVectorielle/images/045_01.png, id=11, 257.0403pt x 90.0966pt>
 File: 045_DerivationVectorielle/images/045_01.png Graphic file (type png)
 <use 045_DerivationVectorielle/images/045_01.png>
 Package pdftex.def Info: 045_DerivationVectorielle/images/045_01.png  used on i
@@ -2593,25 +2601,12 @@ nput line 7.
 (pdftex.def)             Requested size: 236.84843pt x 83.02046pt.
 )
 (046_SLCI_Blocs/046_SLCI_Blocs.tex
-<046_SLCI_Blocs/images/046_01.png, id=11, 378.6948pt x 88.6512pt>
-File: 046_SLCI_Blocs/images/046_01.png Graphic file (type png)
-<use 046_SLCI_Blocs/images/046_01.png>
-Package pdftex.def Info: 046_SLCI_Blocs/images/046_01.png  used on input line 9
-.
-(pdftex.def)             Requested size: 236.84843pt x 55.44608pt.
-<046_SLCI_Blocs/images/046_02.png, id=12, 254.1495pt x 61.9113pt>
-File: 046_SLCI_Blocs/images/046_02.png Graphic file (type png)
-<use 046_SLCI_Blocs/images/046_02.png>
-Package pdftex.def Info: 046_SLCI_Blocs/images/046_02.png  used on input line 1
-5.
-(pdftex.def)             Requested size: 236.84843pt x 57.69781pt.
-)
 LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
-(Font)              scaled to size 7.52002pt on input line 96.
+(Font)              scaled to size 7.52002pt on input line 8.
 LaTeX Font Info:    Font shape `T1/mdput/m/sl' will be
-(Font)              scaled to size 7.52002pt on input line 96.
+(Font)              scaled to size 7.52002pt on input line 8.
 LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
-(Font)              scaled to size 7.52002pt on input line 96.
+(Font)              scaled to size 7.52002pt on input line 8.
  [1
 
 {C:/Users/xpess/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}pdfTeX warnin
@@ -2620,66 +2615,376 @@ sed, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.96 
-     pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) 
-has been already used, duplicate ignored
+l.8 \begin{center}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{exo.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.96 
-     pdfTeX warning (ext4): destination with the same identifier (name{exo.2}) 
-has been already used, duplicate ignored
+l.8 \begin{center}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{exo.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.96 
-     
+l.8 \begin{center}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{exo.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.8 \begin{center}
+                  
 design size mismatch in local font md-utro8t in virtual font mdputro8t.vf ignor
 ed. <./043_Geometrie/images/043_01.png (PNG copy)> <./043_Geometrie/images/043_
-02.png> <./044_SLCI_Calculs/images/044_01.png> <./045_DerivationVectorielle/ima
-ges/045_01.png> <./046_SLCI_Blocs/images/046_01.png (PNG copy)> <./046_SLCI_Blo
-cs/images/046_02.png (PNG copy)>]
-(049_SLCI_Bode_Retard/049_SLCI_Bode_Retard.tex
+02.png> <./044_SLCI_Calculs/images/044_01.png> <./053_SchemaCinematique/images/
+053_01.png> <./045_DerivationVectorielle/images/045_01.png>]
+<046_SLCI_Blocs/images/046_01.png, id=47, 378.6948pt x 88.6512pt>
+File: 046_SLCI_Blocs/images/046_01.png Graphic file (type png)
+<use 046_SLCI_Blocs/images/046_01.png>
+Package pdftex.def Info: 046_SLCI_Blocs/images/046_01.png  used on input line 9
+.
+(pdftex.def)             Requested size: 236.84843pt x 55.44608pt.
+<046_SLCI_Blocs/images/046_02.png, id=48, 254.1495pt x 61.9113pt>
+File: 046_SLCI_Blocs/images/046_02.png Graphic file (type png)
+<use 046_SLCI_Blocs/images/046_02.png>
+Package pdftex.def Info: 046_SLCI_Blocs/images/046_02.png  used on input line 1
+5.
+(pdftex.def)             Requested size: 236.84843pt x 57.69781pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20 \subparagraph{}
+                    \textit{Mettre le premier schÃ©ma-blocs sous la forme du...
+) (055_SchemaCinematique/055_SchemaCinematique.tex
+<055_SchemaCinematique/images/055_01.jpg, id=49, 903.375pt x 602.25pt>
+File: 055_SchemaCinematique/images/055_01.jpg Graphic file (type jpg)
+<use 055_SchemaCinematique/images/055_01.jpg>
+Package pdftex.def Info: 055_SchemaCinematique/images/055_01.jpg  used on input
+ line 8.
+(pdftex.def)             Requested size: 142.1105pt x 94.7354pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.13 \subparagraph{}
+                    ) (047_Train_Epi/047_Train_Epi.tex
+<047_Train_Epi/images/047_01.png, id=50, 106.4778pt x 147.1899pt>
+File: 047_Train_Epi/images/047_01.png Graphic file (type png)
+<use 047_Train_Epi/images/047_01.png>
+Package pdftex.def Info: 047_Train_Epi/images/047_01.png  used on input line 8.
 
-LaTeX Warning: Command \' invalid in math mode on input line 6.
+(pdftex.def)             Requested size: 142.1105pt x 196.46307pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.13 \subparagraph{}
+                    ) (048_PFS/048_PFS.tex
+Underfull \hbox (badness 7832) in paragraph at lines 6--7
+[]\T1/mdput/m/n/10 (+20) Le mé-ca-nisme re-pré-senté sché-ma-ti-que-ment ci-
+ []
+
+<048_PFS/images/048_01.png, id=51, 966.61125pt x 765.86125pt>
+File: 048_PFS/images/048_01.png Graphic file (type png)
+<use 048_PFS/images/048_01.png>
+Package pdftex.def Info: 048_PFS/images/048_01.png  used on input line 9.
+(pdftex.def)             Requested size: 236.84843pt x 187.65517pt.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 12.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.33 \subparagraph{}
+                    \textit{RÃ©aliser le graphe de structure.}pdfTeX warning (e
+xt4): destination with the same identifier (name{exo.2}) has been already used,
+ duplicate ignored
+<to be read again> 
+                   \relax 
+l.35 \subparagraph{}
+                    \textit{En Ã©crivant les Ã©quations associÃ©es Ã  lâ€™Ã©...
+LaTeX Font Info:    Font shape `T1/mdput/b/it' will be
+(Font)              scaled to size 9.40002pt on input line 35.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.3}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \subparagraph{}
+                    \textit{Pour quelle(s) valeur(s) particuliÃ¨res de $\the...
+) (049_SLCI_Bode_Retard/049_SLCI_Bode_Retard.tex
+<049_SLCI_Bode_Retard/images/049_01.png, id=52, 322.0833pt x 111.2958pt>
+File: 049_SLCI_Bode_Retard/images/049_01.png Graphic file (type png)
+<use 049_SLCI_Bode_Retard/images/049_01.png>
+Package pdftex.def Info: 049_SLCI_Bode_Retard/images/049_01.png  used on input 
+line 13.
+(pdftex.def)             Requested size: 236.84843pt x 81.84302pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 \subparagraph{}
+                    \textit{DÃ©terminer $H_r(p)$ en fonction de $\tau$.}
+<049_SLCI_Bode_Retard/images/049_02.png, id=53, 161.403pt x 44.8074pt>
+File: 049_SLCI_Bode_Retard/images/049_02.png Graphic file (type png)
+<use 049_SLCI_Bode_Retard/images/049_02.png>
+Package pdftex.def Info: 049_SLCI_Bode_Retard/images/049_02.png  used on input 
+line 28.
+(pdftex.def)             Requested size: 236.84843pt x 65.75667pt.
+<logo_lycee.png, id=54, 329.23pt x 265.99374pt>
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 29.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+LaTeX Font Info:    Font shape `T1/mdput/m/it' will be
+(Font)              scaled to size 7.52002pt on input line 29.
+LaTeX Font Info:    Font shape `T1/pag/m/it' in size <8> not available
+(Font)              Font shape `T1/pag/m/sl' tried instead on input line 29.
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 6.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 17.13193pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[2 <./logo_lycee.png> <./046_SLCI_Blocs/images/046_01.png (PNG copy)> <./046_SL
+CI_Blocs/images/046_02.png (PNG copy)> <./055_SchemaCinematique/images/055_01.j
+pg> <./047_Train_Epi/images/047_01.png> <./048_PFS/images/048_01.png>]
+<049_SLCI_Bode_Retard/images/049_03.png, id=72, 247.4043pt x 150.3216pt>
+File: 049_SLCI_Bode_Retard/images/049_03.png Graphic file (type png)
+<use 049_SLCI_Bode_Retard/images/049_03.png>
+Package pdftex.def Info: 049_SLCI_Bode_Retard/images/049_03.png  used on input 
+line 35.
+(pdftex.def)             Requested size: 236.84843pt x 143.91484pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.2}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 \subparagraph{}
+                    \textit{PrÃ©ciser lâ€™expression de la fonction de trans...
+pdfTeX warning (ext4): destination with the same identifier (name{exo.3}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48 \subparagraph{}
+                    \textit{DÃ©terminer un ordre de grandeur du paramÃ¨tre $...
+) (051_Cinematique/051_Cinematique.tex
+<051_Cinematique/images/051_02.png, id=73, 96.1191pt x 114.9093pt>
+File: 051_Cinematique/images/051_02.png Graphic file (type png)
+<use 051_Cinematique/images/051_02.png>
+Package pdftex.def Info: 051_Cinematique/images/051_02.png  used on input line 
+6.
+(pdftex.def)             Requested size: 165.79317pt x 198.22224pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.10 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.18 \subparagraph{}
+                    ) (052_SLCI_Demo/052_SLCI_Demo.texpdfTeX warning (ext4): de
+stination with the same identifier (name{exo.1}) has been already used, duplica
+te ignored
+<to be read again> 
+                   \relax 
+l.10 \subparagraph{}
+                    \textit{Tracer le schÃ©ma blocs.}pdfTeX warning (ext4): des
+tination with the same identifier (name{exo.2}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.20 \subparagraph{}
+                    \textit{Montrer que lorsque la bande passante de la FTBO...
+) (054_Train_Epi/054_Train_Epi.tex
+<054_Train_Epi/images/054_01.png, id=74, 161.403pt x 166.4619pt>
+File: 054_Train_Epi/images/054_01.png Graphic file (type png)
+<use 054_Train_Epi/images/054_01.png>
+Package pdftex.def Info: 054_Train_Epi/images/054_01.png  used on input line 8.
+
+(pdftex.def)             Requested size: 142.1105pt x 146.57326pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.15 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.39 \subparagraph{}
+                    ) (056_SchemaCinematique/056_SchemaCinematique.tex
+<056_SchemaCinematique/images/056_01.jpg, id=75, 144.54pt x 86.724pt>
+File: 056_SchemaCinematique/images/056_01.jpg Graphic file (type jpg)
+<use 056_SchemaCinematique/images/056_01.jpg>
+Package pdftex.def Info: 056_SchemaCinematique/images/056_01.jpg  used on input
+ line 8.
+(pdftex.def)             Requested size: 111.31905pt x 66.7909pt.
+<056_SchemaCinematique/images/056_02.jpg, id=76, 602.25pt x 602.25pt>
+File: 056_SchemaCinematique/images/056_02.jpg Graphic file (type jpg)
+<use 056_SchemaCinematique/images/056_02.jpg>
+Package pdftex.def Info: 056_SchemaCinematique/images/056_02.jpg  used on input
+ line 9.
+(pdftex.def)             Requested size: 111.31905pt x 111.31342pt.
+<056_SchemaCinematique/images/056_03.jpg, id=77, 602.25pt x 602.25pt>
+File: 056_SchemaCinematique/images/056_03.jpg Graphic file (type jpg)
+<use 056_SchemaCinematique/images/056_03.jpg>
+Package pdftex.def Info: 056_SchemaCinematique/images/056_03.jpg  used on input
+ line 13.
+(pdftex.def)             Requested size: 111.31905pt x 111.31342pt.
+<056_SchemaCinematique/images/056_04.jpg, id=78, 144.54pt x 131.0496pt>
+File: 056_SchemaCinematique/images/056_04.jpg Graphic file (type jpg)
+<use 056_SchemaCinematique/images/056_04.jpg>
+Package pdftex.def Info: 056_SchemaCinematique/images/056_04.jpg  used on input
+ line 14.
+(pdftex.def)             Requested size: 111.31905pt x 100.92848pt.
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 15.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
+(Font)              scaled to size 11.28003pt on input line 15.
+ [3 <./049_SLCI_Bode_Retard/images/049_01.png (PNG copy)> <./049_SLCI_Bode_Reta
+rd/images/049_02.png (PNG copy)> <./049_SLCI_Bode_Retard/images/049_03.png (PNG
+ copy)> <./051_Cinematique/images/051_02.png> <./054_Train_Epi/images/054_01.pn
+g>]pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.19 \subparagraph{}
+                    ) (057_Geometrie/057_Geometrie.tex
+<057_Geometrie/images/057_01.png, id=88, 185.7339pt x 109.1277pt>
+File: 057_Geometrie/images/057_01.png Graphic file (type png)
+<use 057_Geometrie/images/057_01.png>
+Package pdftex.def Info: 057_Geometrie/images/057_01.png  used on input line 6.
+
+(pdftex.def)             Requested size: 236.84843pt x 139.17007pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.11 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 \subparagraph{}
+                    ) (050_Geometrie/050_Geometrie.tex
+<050_Geometrie/images/050_01.png, id=89, 256.7994pt x 95.3964pt>
+File: 050_Geometrie/images/050_01.png Graphic file (type png)
+<use 050_Geometrie/images/050_01.png>
+Package pdftex.def Info: 050_Geometrie/images/050_01.png  used on input line 7.
+
+(pdftex.def)             Requested size: 236.84843pt x 87.98552pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\T1/mdput/m/n/10 (+20) On sup-pose que le mé-ca-nisme étu-dié ad-met
+ []
+
+<050_Geometrie/images/050_02.png, id=90, 194.4063pt x 138.2766pt>
+File: 050_Geometrie/images/050_02.png Graphic file (type png)
+<use 050_Geometrie/images/050_02.png>
+Package pdftex.def Info: 050_Geometrie/images/050_02.png  used on input line 14
+.
+(pdftex.def)             Requested size: 236.84843pt x 168.47775pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 \subparagraph{}
+                    
+<050_Geometrie/images/050_03.png, id=91, 252.7041pt x 152.9715pt>
+File: 050_Geometrie/images/050_03.png Graphic file (type png)
+<use 050_Geometrie/images/050_03.png>
+Package pdftex.def Info: 050_Geometrie/images/050_03.png  used on input line 37
+.
+(pdftex.def)             Requested size: 236.84843pt x 143.37305pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.2}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \subparagraph{}
+                    
+LaTeX Font Info:    Font shape `TS1/mdput/m/it' will be
+(Font)              scaled to size 9.40002pt on input line 42.
+)
+Overfull \vbox (36.03777pt too high) has occurred while \output is active []
+
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 252.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+
+[4 <./056_SchemaCinematique/images/056_01.jpg> <./056_SchemaCinematique/images/
+056_02.jpg> <./056_SchemaCinematique/images/056_03.jpg> <./056_SchemaCinematiqu
+e/images/056_04.jpg> <./057_Geometrie/images/057_01.png> <./050_Geometrie/image
+s/050_01.png (PNG copy)> <./050_Geometrie/images/050_02.png (PNG copy)> <./050_
+Geometrie/images/050_03.png>]
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 253.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
+ (DDS_03.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 253.
 
 
-LaTeX Warning: Command \` invalid in math mode on input line 6.
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 7.
+LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 7.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                DDS_03
+(biblatex)                and rerun LaTeX afterwards.
 
-Missing character: There is no é in font mdputr7t!
-Missing character: There is no é in font mdputr7t!
-Missing character: There is no à in font mdputr7t!
-Missing character: There is no é in font mdputr7t!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.7 Dâ€™un point de vue numÃ©rique, $K_
-                                       f = \SI{1,5e9}{N.m^{-1}}$ et $\tau = ...
+Package logreq Info: Writing requests to 'DDS_03.run.xml'.
+\openout1 = `DDS_03.run.xml'.
 
-? 
-! Emergency stop.
-<inserted text> 
-                $
-l.7 Dâ€™un point de vue numÃ©rique, $K_
-                                       f = \SI{1,5e9}{N.m^{-1}}$ et $\tau = ...
-End of file on the terminal!
-
- 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
+ ) 
 Here is how much of TeX's memory you used:
- 49476 strings out of 481165
- 1105313 string characters out of 2912171
- 2031459 words of memory out of 3000000
- 64005 multiletter control sequences out of 15000+200000
- 719960 words of font info for 267 fonts, out of 3000000 for 9000
+ 49859 strings out of 481165
+ 1113381 string characters out of 2912171
+ 2031790 words of memory out of 3000000
+ 64207 multiletter control sequences out of 15000+200000
+ 755423 words of font info for 339 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,17n,98p,997b,1989s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/ly1/texnansi.enc}{C:/Program Fil
+es/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/mathdesign/mdput/md-utr7m.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/math
+design/mdput/md-utr7t.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/m
+dput/md-utr7v.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdput/md-
+utr7y.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdput/md-utri7m.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putbi8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/adobe/utopia/putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/adobe/utopia/putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopi
+a/putri8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/urw/avantgar/uagko8a.pfb>
+Output written on DDS_03.pdf (5 pages, 2498987 bytes).
+PDF statistics:
+ 243 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 77165 words of extra memory for PDF output out of 89155 (max. 10000000)
+
