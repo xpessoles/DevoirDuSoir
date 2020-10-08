@@ -2641,4 +2641,45 @@ ges/045_01.png> <./046_SLCI_Blocs/images/046_01.png (PNG copy)> <./046_SLCI_Blo
 cs/images/046_02.png (PNG copy)>]
 (049_SLCI_Bode_Retard/049_SLCI_Bode_Retard.tex
 
-LaTeX Warning: Command \' invalid in math mode on input l
+LaTeX Warning: Command \' invalid in math mode on input line 6.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 6.
+
+
+LaTeX Warning: Command \` invalid in math mode on input line 6.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 7.
+
+Missing character: There is no é in font mdputr7t!
+Missing character: There is no é in font mdputr7t!
+Missing character: There is no à in font mdputr7t!
+Missing character: There is no é in font mdputr7t!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 Dâ€™un point de vue numÃ©rique, $K_
+                                       f = \SI{1,5e9}{N.m^{-1}}$ et $\tau = ...
+
+? 
+! Emergency stop.
+<inserted text> 
+                $
+l.7 Dâ€™un point de vue numÃ©rique, $K_
+                                       f = \SI{1,5e9}{N.m^{-1}}$ et $\tau = ...
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 49476 strings out of 481165
+ 1105313 string characters out of 2912171
+ 2031459 words of memory out of 3000000
+ 64005 multiletter control sequences out of 15000+200000
+ 719960 words of font info for 267 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 64i,17n,98p,997b,1989s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
