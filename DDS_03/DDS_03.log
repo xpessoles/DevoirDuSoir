@@ -2896,4 +2896,238 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
  []
 
 <050_Geometrie/images/050_02.png, id=90, 194.4063pt x 138.2766pt>
-File: 050_Geometrie/images/050_02.png
+File: 050_Geometrie/images/050_02.png Graphic file (type png)
+<use 050_Geometrie/images/050_02.png>
+Package pdftex.def Info: 050_Geometrie/images/050_02.png  used on input line 14
+.
+(pdftex.def)             Requested size: 236.84843pt x 168.47775pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 \subparagraph{}
+                    
+<050_Geometrie/images/050_03.png, id=91, 252.7041pt x 152.9715pt>
+File: 050_Geometrie/images/050_03.png Graphic file (type png)
+<use 050_Geometrie/images/050_03.png>
+Package pdftex.def Info: 050_Geometrie/images/050_03.png  used on input line 37
+.
+(pdftex.def)             Requested size: 236.84843pt x 143.37305pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.2}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \subparagraph{}
+                    
+LaTeX Font Info:    Font shape `TS1/mdput/m/it' will be
+(Font)              scaled to size 9.40002pt on input line 42.
+) (058_PFS/058_PFS.tex
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 12.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [4 <./056_SchemaCinematique/images/056_01.jpg> <./056_SchemaCinematique/images
+/056_02.jpg> <./056_SchemaCinematique/images/056_03.jpg> <./056_SchemaCinematiq
+ue/images/056_04.jpg> <./057_Geometrie/images/057_01.png> <./050_Geometrie/imag
+es/050_01.png (PNG copy)> <./050_Geometrie/images/050_02.png (PNG copy)> <./050
+_Geometrie/images/050_03.png>]
+<058_PFS/images/058_01.png, id=101, 312.52545pt x 186.59679pt>
+File: 058_PFS/images/058_01.png Graphic file (type png)
+<use 058_PFS/images/058_01.png>
+Package pdftex.def Info: 058_PFS/images/058_01.png  used on input line 16.
+(pdftex.def)             Requested size: 236.84843pt x 141.4164pt.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 22.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+
+ []
+
+<058_PFS/images/058_02.png, id=102, 616.3025pt x 451.6875pt>
+File: 058_PFS/images/058_02.png Graphic file (type png)
+<use 058_PFS/images/058_02.png>
+Package pdftex.def Info: 058_PFS/images/058_02.png  used on input line 46.
+(pdftex.def)             Requested size: 189.47946pt x 138.86378pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.62 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.80 \subparagraph{}
+                    
+<058_PFS/images/cor_02.png, id=103, 717.68124pt x 293.095pt>
+File: 058_PFS/images/cor_02.png Graphic file (type png)
+<use 058_PFS/images/cor_02.png>
+Package pdftex.def Info: 058_PFS/images/cor_02.png  used on input line 108.
+(pdftex.def)             Requested size: 189.47946pt x 77.3791pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.3}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.115 \subparagraph{}
+                     
+<058_PFS/images/058_03.png, id=104, 1031.855pt x 145.54375pt>
+File: 058_PFS/images/058_03.png Graphic file (type png)
+<use 058_PFS/images/058_03.png>
+Package pdftex.def Info: 058_PFS/images/058_03.png  used on input line 147.
+(pdftex.def)             Requested size: 236.84843pt x 33.40773pt.
+<058_PFS/images/058_04.png, id=105, 758.835pt x 547.04375pt>
+File: 058_PFS/images/058_04.png Graphic file (type png)
+<use 058_PFS/images/058_04.png>
+Package pdftex.def Info: 058_PFS/images/058_04.png  used on input line 210.
+(pdftex.def)             Requested size: 189.47946pt x 136.59364pt.
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 212.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [5 <./058_PFS/images/058_01.png> <./058_PFS/images/058_02.png> <./058_PFS/imag
+es/cor_02.png> <./058_PFS/images/058_03.png (PNG copy)>]
+<058_PFS/images/058_05.png, id=121, 824.07875pt x 547.04375pt>
+File: 058_PFS/images/058_05.png Graphic file (type png)
+<use 058_PFS/images/058_05.png>
+Package pdftex.def Info: 058_PFS/images/058_05.png  used on input line 261.
+(pdftex.def)             Requested size: 213.16214pt x 141.5018pt.
+<058_PFS/images/058_06.png, id=122, 1181.41376pt x 762.85pt>
+File: 058_PFS/images/058_06.png Graphic file (type png)
+<use 058_PFS/images/058_06.png>
+Package pdftex.def Info: 058_PFS/images/058_06.png  used on input line 293.
+(pdftex.def)             Requested size: 189.47946pt x 122.33784pt.
+)
+(059_STM/059_STM.tex
+<059_STM/images/059_01.png, id=123, 213.1965pt x 154.8987pt>
+File: 059_STM/images/059_01.png Graphic file (type png)
+<use 059_STM/images/059_01.png>
+Package pdftex.def Info: 059_STM/images/059_01.png  used on input line 12.
+(pdftex.def)             Requested size: 236.84843pt x 172.08847pt.
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 13.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [6 <./058_PFS/images/058_04.png (PNG copy)> <./058_PFS/images/058_05.png (PNG 
+copy)> <./058_PFS/images/058_06.png>]
+<059_STM/images/059_02.png, id=137, 102.1416pt x 142.3719pt>
+File: 059_STM/images/059_02.png Graphic file (type png)
+<use 059_STM/images/059_02.png>
+Package pdftex.def Info: 059_STM/images/059_02.png  used on input line 17.
+(pdftex.def)             Requested size: 236.84843pt x 330.13573pt.
+<059_STM/images/059_03.png, id=138, 254.8722pt x 125.268pt>
+File: 059_STM/images/059_03.png Graphic file (type png)
+<use 059_STM/images/059_03.png>
+Package pdftex.def Info: 059_STM/images/059_03.png  used on input line 24.
+(pdftex.def)             Requested size: 236.84843pt x 116.41393pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.27 \subparagraph{}
+                    
+<059_STM/images/059_04.png, id=139, 308.352pt x 136.3494pt>
+File: 059_STM/images/059_04.png Graphic file (type png)
+<use 059_STM/images/059_04.png>
+Package pdftex.def Info: 059_STM/images/059_04.png  used on input line 31.
+(pdftex.def)             Requested size: 236.84843pt x 104.73343pt.
+) (060_Bode/060_Bode.tex) (061_MAM/061_MAM.tex
+<061_MAM/images/061_01.png, id=140, 287.3937pt x 127.9179pt>
+File: 061_MAM/images/061_01.png Graphic file (type png)
+<use 061_MAM/images/061_01.png>
+Package pdftex.def Info: 061_MAM/images/061_01.png  used on input line 12.
+(pdftex.def)             Requested size: 236.84843pt x 105.42035pt.
+<061_MAM/images/061_02.png, id=141, 77.088pt x 74.679pt>
+File: 061_MAM/images/061_02.png Graphic file (type png)
+<use 061_MAM/images/061_02.png>
+Package pdftex.def Info: 061_MAM/images/061_02.png  used on input line 21.
+(pdftex.def)             Requested size: 94.73792pt x 91.77939pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.26 \subparagraph{}
+                    \textit{Déterminer la résultante des actions mécaniqu...
+pdfTeX warning (ext4): destination with the same identifier (name{exo.2}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.53 \subparagraph{}
+                    \textit{Déterminer $\vectm{O}{1}{3}\vect{z_N}$.})
+(062_MAM/062_MAM.texpdfTeX warning (ext4): destination with the same identifier
+ (name{exo.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 \subparagraph{}
+                   \textit{Justifier que  $\vectf{1}{3}$ n'a une composante ...
+pdfTeX warning (ext4): destination with the same identifier (name{exo.2}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.18 \subparagraph{}
+                    \textit{Déterminer la résultante des actions mécaniqu...
+)
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 169.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [7 <./059_STM/images/059_01.png (PNG copy)> <./059_STM/images/059_02.png (PNG 
+copy)> <./059_STM/images/059_03.png (PNG copy)> <./059_STM/images/059_04.png (P
+NG copy)> <./061_MAM/images/061_01.png> <./061_MAM/images/061_02.png>]
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 268.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+
+[8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
+ (DDS_03.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 268.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 268.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                DDS_03
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'DDS_03.run.xml'.
+\openout1 = `DDS_03.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 268.
+ ) 
+Here is how much of TeX's memory you used:
+ 50096 strings out of 481165
+ 1117167 string characters out of 2912171
+ 2031790 words of memory out of 3000000
+ 64319 multiletter control sequences out of 15000+200000
+ 761478 words of font info for 397 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 64i,17n,98p,997b,1989s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/ly1/texnansi.enc}{C:/Program Fil
+es/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/m
+dput/md-utr7m.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdput/md-
+utr7t.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdput/md-utr7v.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdput/md-utr7y.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/mathdesign/mdput/md-utri7m.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/adobe/utopia/putbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/adobe/utopia/putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/
+putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/urw/avantgar/uagko8a.pfb>
+Output written on DDS_03.pdf (8 pages, 3736151 bytes).
+PDF statistics:
+ 349 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
+ 77342 words of extra memory for PDF output out of 89155 (max. 10000000)
+
