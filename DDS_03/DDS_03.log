@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.26)  11 OCT 2020 22:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.26)  20 OCT 2020 20:06
 entering extended mode
 **./DDS_03.tex
 (DDS_03.tex
@@ -3093,6 +3093,9 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                DDS_03
 (biblatex)                and rerun LaTeX afterwards.
@@ -3125,7 +3128,7 @@ putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/avantgar/uagko8a.pfb>
-Output written on DDS_03.pdf (8 pages, 3736151 bytes).
+Output written on DDS_03.pdf (8 pages, 3736034 bytes).
 PDF statistics:
  349 PDF objects out of 1000 (max. 8388607)
  56 named destinations out of 1000 (max. 500000)
