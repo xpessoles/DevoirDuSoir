@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.26)  31 OCT 2020 08:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.26)  1 NOV 2020 16:36
 entering extended mode
 **./DDS_02.tex
 (DDS_02.tex
@@ -3737,28 +3737,230 @@ pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \subparagraph{}
+l.45 \subparagraph{}
+                    
+<976_SLCI_SchemaBlocs/images/976_02.png, id=301, 168.63pt x 47.6982pt>
+File: 976_SLCI_SchemaBlocs/images/976_02.png Graphic file (type png)
+<use 976_SLCI_SchemaBlocs/images/976_02.png>
+Package pdftex.def Info: 976_SLCI_SchemaBlocs/images/976_02.png  used on input 
+line 54.
+(pdftex.def)             Requested size: 236.84843pt x 66.99533pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.2}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.58 \subparagraph{}
+                    
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 69.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [22 <./977_SLCI_Retard/images/977_02.png (PNG copy)> <./977_SLCI_Retard/images
+/977_03.png (PNG copy)> <./976_SLCI_SchemaBlocs/images/976_01.png (PNG copy)> <
+./976_SLCI_SchemaBlocs/images/976_02.png (PNG copy)>]pdfTeX warning (ext4): des
+tination with the same identifier (name{exo.3}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.75 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.86 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.98 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.111 \subparagraph{}
+                     
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+[]$\OML/mdput/m/it/10 k[] \OT1/mdput/m/n/10 (+20) = [] []$\T1/mdput/m/n/10 (+20
+) , $\OML/mdput/m/it/10 K[] \OMS/mdput/m/n/10 ' [] []$\T1/mdput/m/n/10 (+20) , 
+$\OML/mdput/m/it/10 k[] \OMS/mdput/m/n/10 '
+ []
+
+) (975_SLCI_PI/975_SLCI_PI.texpdfTeX warning (ext4): destination with the same 
+identifier (name{exo.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.13 \subparagraph{}
+                    
+<975_SLCI_PI/images/975_01.png, id=314, 191.5155pt x 85.2786pt>
+File: 975_SLCI_PI/images/975_01.png Graphic file (type png)
+<use 975_SLCI_PI/images/975_01.png>
+Package pdftex.def Info: 975_SLCI_PI/images/975_01.png  used on input line 23.
+(pdftex.def)             Requested size: 236.84843pt x 105.47237pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.2}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \subparagraph{}
+                    
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]\T1/mdput/m/n/10 (+20) Un cor-rec-teur pro-por-tion-nel in-té-gral $\OML/mdpu
+t/m/it/10 C\OT1/mdput/m/n/10 (+20) (\OML/mdput/m/it/10 p\OT1/mdput/m/n/10 (+20)
+ ) =
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{exo.3}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.77 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.88 \subparagraph{}
+                    
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+[]$\OML/mdput/m/it/10 k[] \OT1/mdput/m/n/10 (+20) = [] []$\T1/mdput/m/n/10 (+20
+) , $\OML/mdput/m/it/10 K[] \OMS/mdput/m/n/10 ' [] []$\T1/mdput/m/n/10 (+20) , 
+$\OML/mdput/m/it/10 k[] \OMS/mdput/m/n/10 '
+ []
+
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 241.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+[23 <./975_SLCI_PI/images/975_01.png (PNG copy)>]) (974_Inertie/974_Inertie.tex
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 6.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 6.
+
+<974_Inertie/images/974_01.png, id=330, 130.3269pt x 149.1171pt>
+File: 974_Inertie/images/974_01.png Graphic file (type png)
+<use 974_Inertie/images/974_01.png>
+Package pdftex.def Info: 974_Inertie/images/974_01.png  used on input line 12.
+(pdftex.def)             Requested size: 236.84843pt x 271.02493pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.36 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.53 \subparagraph{}
+                    )
+(973_Modelisation_Geometrie/973_Modelisation_Geometrie.tex
+<973_Modelisation_Geometrie/images/973_01.png, id=331, 322.3242pt x 189.3474pt>
+
+File: 973_Modelisation_Geometrie/images/973_01.png Graphic file (type png)
+<use 973_Modelisation_Geometrie/images/973_01.png>
+Package pdftex.def Info: 973_Modelisation_Geometrie/images/973_01.png  used on 
+input line 7.
+(pdftex.def)             Requested size: 236.84843pt x 139.13832pt.
+<973_Modelisation_Geometrie/images/973_02.png, id=332, 128.3997pt x 56.1297pt>
+File: 973_Modelisation_Geometrie/images/973_02.png Graphic file (type png)
+<use 973_Modelisation_Geometrie/images/973_02.png>
+Package pdftex.def Info: 973_Modelisation_Geometrie/images/973_02.png  used on 
+input line 14.
+(pdftex.def)             Requested size: 236.84843pt x 103.54451pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.18 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.27 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.36 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.54 \subparagraph{}
+                    ) (972_Cinematique/972_Cinematique.tex
+File: logo_lycee.png Graphic file (type png)
+<use logo_lycee.png>
+Package pdftex.def Info: logo_lycee.png  used on input line 7.
+(pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
+ [24 <./974_Inertie/images/974_01.png> <./973_Modelisation_Geometrie/images/973
+_01.png> <./973_Modelisation_Geometrie/images/973_02.png>]
+<972_Cinematique/images/972_01.png, id=351, 80.7015pt x 96.1191pt>
+File: 972_Cinematique/images/972_01.png Graphic file (type png)
+<use 972_Cinematique/images/972_01.png>
+Package pdftex.def Info: 972_Cinematique/images/972_01.png  used on input line 
+8.
+(pdftex.def)             Requested size: 189.47946pt x 225.71704pt.
+pdfTeX warning (ext4): destination with the same identifier (name{exo.1}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.11 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20 \subparagraph{}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{exo.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.29 \subparagraph{}
                     )
 File: logo_lycee.png Graphic file (type png)
 <use logo_lycee.png>
-Package pdftex.def Info: logo_lycee.png  used on input line 179.
+Package pdftex.def Info: logo_lycee.png  used on input line 199.
 (pdftex.def)             Requested size: 56.9055pt x 45.97325pt.
- [22 <./977_SLCI_Retard/images/977_02.png (PNG copy)> <./977_SLCI_Retard/images
-/977_03.png (PNG copy)> <./976_SLCI_SchemaBlocs/images/976_01.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 179.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
+ [25 <./972_Cinematique/images/972_01.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
  (DDS_02.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 179.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 199.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -3768,14 +3970,14 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'DDS_02.run.xml'.
 \openout1 = `DDS_02.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 179.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
  ) 
 Here is how much of TeX's memory you used:
- 50771 strings out of 481165
- 1128432 string characters out of 2912171
- 2031712 words of memory out of 3000000
- 64591 multiletter control sequences out of 15000+200000
- 807975 words of font info for 615 fonts, out of 3000000 for 9000
+ 50918 strings out of 481165
+ 1131240 string characters out of 2912171
+ 2029696 words of memory out of 3000000
+ 64661 multiletter control sequences out of 15000+200000
+ 810010 words of font info for 634 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,21n,98p,997b,1989s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/Mi
@@ -3793,9 +3995,9 @@ topia/putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/avantgar/uagko8a.pfb>
-Output written on DDS_02.pdf (22 pages, 3228584 bytes).
+Output written on DDS_02.pdf (25 pages, 3337555 bytes).
 PDF statistics:
- 736 PDF objects out of 1000 (max. 8388607)
- 155 named destinations out of 1000 (max. 500000)
- 91831 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 862 PDF objects out of 1000 (max. 8388607)
+ 183 named destinations out of 1000 (max. 500000)
+ 92053 words of extra memory for PDF output out of 106986 (max. 10000000)
 
