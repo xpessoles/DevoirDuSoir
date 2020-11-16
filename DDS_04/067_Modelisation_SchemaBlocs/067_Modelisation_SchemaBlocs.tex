@@ -8,6 +8,12 @@ Définir le modèle de commande qui sera utilisé pour l’étude et l’analyse
 du régulateur de la chaîne d’asservissement.
 \end{obj}
 
+On s'intéresse à la fermeture d'une porte de tramway.
+
+\begin{center}
+\includegraphics[width=.35\linewidth]{983_00}%
+\end{center}
+
 
 Pour des raisons de simplicité, l’étude du modèle sera faite uniquement pendant
 la phase de verrouillage. Bien que pendant cette phase, les déplacements de la
@@ -16,10 +22,6 @@ modèles de comportement simples, on supposera, au regard du dimensionnement
 adopté, que le déplacement suivant $\vect{x}$ est négligeable dans la phase considérée.
 La validation de cette hypothèse ne rentrera pas dans le cadre de cette
 étude.
-
-%\begin{center}
-%\includegraphics[width=\linewidth]{982_01}%
-%\end{center}
 
 
 \subsubsection*{Notations}
@@ -39,18 +41,21 @@ On suppose que pendant les opérations d’ouverture/fermeture la voiture est
 immobile par rapport au sol dont tout repère $\rep{g}$ qui lui est attaché est considéré
 comme galiléen.
 
-\subparagraph{}
-\textit{Montrer que l’évolution de la vitesse de rotation du stator est
-régie par l’équation différentielle suivante :
-$I_{eq}\left( \theta_m\right)\dot{\Omega}_S  =AC_m-B\left( \theta_m\right)\Omega_m^2-C\left( \theta_m\right)F$.
-Exprimer $I_{eq}\left( \theta_m \right)=$, $A$, $B\left(\theta_m\right)$ et $C\left(\theta_m\right)$ en fonction de $I_S$, $I_R$, $M_y$, $N$, $N_1\left(\theta_m\right)$ et $N'_1\left(\theta_m\right)$ où $N'_1\left(\theta_m\right) = \dfrac{\partial N_1\left(\theta_m\right)}{\partial \theta_m}$. On suppose que toutes les liaisons sont parfaites
-et que l’action de la pesanteur est négligée pour toutes les pièces.}
-\ifprof
-\begin{corrige}
-\end{corrige}
-\else
-\fi
+%\subparagraph{}
+%\textit{Montrer que l’évolution de la vitesse de rotation du stator est
+%régie par l’équation différentielle suivante :
+%$I_{eq}\left( \theta_m\right)\dot{\Omega}_S  =AC_m-B\left( \theta_m\right)\Omega_m^2-C\left( \theta_m\right)F$.
+%Exprimer $I_{eq}\left( \theta_m \right)$, $A$, $B\left(\theta_m\right)$ et $C\left(\theta_m\right)$ en fonction de $I_S$, $I_R$, $M_y$, $N$, $N_1\left(\theta_m\right)$ et $N'_1\left(\theta_m\right)$ où $N'_1\left(\theta_m\right) = \dfrac{\partial N_1\left(\theta_m\right)}{\partial \theta_m}$. On suppose que toutes les liaisons sont parfaites
+%et que l’action de la pesanteur est négligée pour toutes les pièces.}
+%\ifprof
+%\begin{corrige}
+%
+%\end{corrige}
+%\else
+%\fi
 
+%L’équation différentielle suivante :
+%$I_{eq}\left( \theta_m\right)\dot{\Omega}_S  =AC_m-B\left( \theta_m\right)\Omega_m^2-C\left( \theta_m\right)F$.
 
 L’objectif de cette question est de définir un modèle de comportement
 linéaire permettant de synthétiser un régulateur pour la chaîne d’asservissement
@@ -66,10 +71,12 @@ machine à courant continu.
 L’inductance d’induit sera négligée, soit $L=0$.
 L’ensemble des relations nécessaire à la mise en place du modèle est :
 \begin{itemize}
- \item $I_{eq}\left( \theta_m\right)\dot{\Omega}_S = AC_m-B\left( \theta_m\right)\Omega_m^2-C\left( \theta_m\right)F$.
+ \item $I_{\text{eq}}\left( \theta_m\right)\dot{\Omega}_S = AC_m-B\left( \theta_m\right)\Omega_m^2-C\left( \theta_m\right)F$.
  \item $u(t)=Ri_m(t)+K_e\Omega_m(t)$, 
  \item $C_m(t)=K_ci_m(t)$.
 \end{itemize}
+
+%On a de plus  $I_{\text{eq}}(m)=I_S+I_R\left(N+1\right)^2+M_y\left(N_1\left(\theta_m\right)\right)^2$, $A=N$, $B=\dfrac{M_y N_1\left( \theta_m\right)N'_1\left( \theta_m\right)}{N}$ et $C\left( \theta_m\right)=-N_1\left( \theta_m\right)$.
 
 \subparagraph{}
 \textit{Préciser les relations liant :
@@ -140,7 +147,7 @@ et $K_0$.}
 
 
 \begin{enumerate}
-\item $I_{eq}(m)=I_S+I_R\left(N+1\right)^2+M_y\left(N_1\left(\theta_m\right)\right)^2$, $A=N$, $B=\dfrac{M_y N_1\left( \theta_m\right)N'_1\left( \theta_m\right)}{N}$ et $C\left( \theta_m\right)=-N_1\left( \theta_m\right)$.
+%\item.
 \item $AC_{m0}-B\left( \theta_{m0}\right) \Omega_{m0}^2-C\left( \theta_{m0}\right)F_0 = 0 $ et $C_{m0}(t)=\dfrac{K_C}{R}\left(U_0-K_e\Omega_{m0}\right)$
 \item $\dfrac{RI_{eq}\left( \theta_m\right)}{N\left( AK_cK_e+2RB\left( \theta_m\right)\Omega_{m0}\right)} \dot{\Omega}_1+\Omega_1 $
 
