@@ -1,0 +1,129 @@
+\documentclass[10pt,ometfleqn]{article} % Default font size and left-justified equations
+\usepackage[%
+    pdftitle={Modélisation systèmes multiphysiques : Modélisation linéaire et non linéaire},
+    pdfauthor={Xavier Pessoles}]{hyperref}
+    
+\input{style/new_style}
+\input{style/macros_SII}
+\usepackage{multicol}
+\usepackage{standalone}
+\standaloneconfig{mode=buildnew}
+\usepackage{siunitx}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{qrcode}
+
+\graphicspath{{images/}}
+
+\fichetrue
+%\fichefalse
+
+\proftrue
+\proffalse
+
+\tdtrue
+\tdfalse
+
+\courstrue
+\coursfalse
+
+\def\discipline{Sciences \\Industrielles de \\ l'Ingénieur}
+\def\xxtete{Sciences Industrielles de l'Ingénieur}
+
+\def\classe{PSI$\star$ -- MP}
+\def\xxnumpartie{{DDS  5}}%\textsf{\textsf{Cy. 4, 6 \& 7}}}
+\def\xxpartie{Cahier de devoirs 5}
+
+\def\xxnumchapitre{Devoirs du soir\vspace{.2cm}$\;$}
+\def\xxchapitre{}%\hspace{.12cm} Performances des systèmes asservis -- Résolution en utilisant le PFS}
+
+
+
+\def\xxposongletx{2}
+\def\xxposonglettext{1.45}
+\def\xxposonglety{20}
+\def\xxonglet{\textsf{DDS 5}}
+\def\xxactivite{\textsf{DDS 5}}
+
+\def\xxauteur{\textsl{Xavier Pessoles}}
+
+
+
+\def\xxpied{%
+%Cycle 01 -- Modéliser le comportement des systèmes multiphysiques\\
+\xxactivite%
+}
+
+\setcounter{secnumdepth}{5}
+%---------------------------------------------------------------------------
+
+\usepackage{pgfplots}
+\begin{document}
+%\defimages{images}
+%\chapterimage{png/Fond_Cin}
+\input{style/new_pagegarde}
+
+\vspace{1cm}
+
+\pagestyle{fancy}
+\thispagestyle{plain}
+
+\def\columnseprulecolor{\color{ocre}}
+\setlength{\columnseprule}{0.4pt} 
+
+%\defimages2{images}
+
+
+\newcommand{\repex}{repex}
+
+\begin{multicols}{2}
+
+
+\renewcommand{\repex}{085_SchemasCinematique}
+\graphicspath{{\repex/images/}}
+\input{\repex/\repex}
+
+\renewcommand{\repex}{086_Correcteur_Clever}
+\graphicspath{{\repex/images/}}
+\input{\repex/\repex}
+
+\renewcommand{\repex}{087_SchemasCinematique}
+\graphicspath{{\repex/images/}}
+\input{\repex/\repex}
+
+\renewcommand{\repex}{088_Geometrie}
+\graphicspath{{\repex/images/}}
+\input{\repex/\repex}
+
+\renewcommand{\repex}{089_PFD_RobotChirurgical}
+\graphicspath{{\repex/images/}}
+\input{\repex/\repex}
+
+\renewcommand{\repex}{090_Inertie}
+\graphicspath{{\repex/images/}}
+\input{\repex/\repex}
+
+\renewcommand{\repex}{091_Inertie}
+\graphicspath{{\repex/images/}}
+\input{\repex/\repex}
+
+\renewcommand{\repex}{092_TorseursDyn_Orthese}
+\graphicspath{{\repex/images/}}
+\input{\repex/\repex}
+
+\renewcommand{\repex}{093_PFD}
+\graphicspath{{\repex/images/}}
+\input{\repex/\repex}
+
+
+
+\renewcommand{\repex}{094_PI}
+\graphicspath{{\repex/images/}}
+\input{\repex/\repex}
+
+
+
+
+
+\end{multicols}
+\end{document}
